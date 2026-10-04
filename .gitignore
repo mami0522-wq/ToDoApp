@@ -1,0 +1,14 @@
+</>
+
+# Maven
+target/
+
+# Todoアプリの実行データ
+todo.txt
+backup/
+
+#VS Code
+.vscode/
+
+#Javaコンパイル後のファイル
+*class
